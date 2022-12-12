@@ -1,9 +1,13 @@
-### Всеми привет, меня зовут Константин.👋
-Я начинающий Андроид разработчик(Junior Android Developer) из Москвы.
+<div id="header" align="center">
+<h1>Всем привет, меня зовут Константин.👋</h1>
+
+<h3>Я начинающий Андроид разработчик(Junior Android Developer) из Москвы.</h3>
 
 <a href="telegram-url">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
+</div>
+
 
 ## Стек технологий:
 
