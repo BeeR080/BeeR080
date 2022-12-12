@@ -1,16 +1,30 @@
-### Hi there 👋
+### Всеми привет, меня зовут Константин.👋
+Я начинающий Андроид разработчик(Junior Android Developer).
 
-<!--
-**BeeR080/BeeR080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Стек технологий:
 
-Here are some ideas to get you started:
+-Kotlin, Java(чтение, написание несложных тасков)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Android Jetpack Components
+
+-Coroutines
+
+-Room
+
+-Retrofit2, Gson
+
+-Github
+
+-Material Design
+
+-MVVM, MVP
+
+-JetPack Compose
+
+## Статистика:
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeeR080&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BeeR080&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BeeR080&theme=default&utcOffset=8)
+
+
