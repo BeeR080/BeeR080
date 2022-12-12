@@ -1,6 +1,10 @@
 ### Всеми привет, меня зовут Константин.👋
 Я начинающий Андроид разработчик(Junior Android Developer).
 
+<a href="telegram-url">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
+
 ## Стек технологий:
 
 -Kotlin, Java(чтение, написание несложных тасков)
